@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "小红书",
+  "usingComponents": {
+    "u-header": "./components/uHeader",
+    "tab": "./components/tab"
+  }
+}

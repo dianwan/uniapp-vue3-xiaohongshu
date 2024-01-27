@@ -1,0 +1,20 @@
+.tabs.data-v-4702cf16 {
+  width: 1200rpx;
+  height: 40px;
+  padding: 0 10px;
+  display: flex;
+}
+.tabs__item.data-v-4702cf16 {
+  width: 64px;
+  line-height: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+  color: #999;
+}
+.active.data-v-4702cf16 {
+  background: #f7f7f7;
+  border-radius: 20px;
+  font-weight: 600;
+  color: #333;
+}
